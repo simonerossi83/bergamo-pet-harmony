@@ -49,7 +49,7 @@ const AboutSection = () => {
             </Badge>
             
             <h2 className="font-display text-3xl md:text-4xl lg:text-5xl text-foreground mb-6">
-              Ciao, sono <span className="text-primary">Giulia</span>
+              Ciao, sono <span className="text-primary">Alessia</span>
             </h2>
             
             <div className="space-y-4 text-muted-foreground leading-relaxed">
