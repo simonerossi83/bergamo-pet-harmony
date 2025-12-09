@@ -4,7 +4,7 @@ import { MessageCircle, Mail, MapPin, Clock, Phone } from "lucide-react";
 
 const ContactSection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/39XXXXXXXXXX?text=Ciao! Vorrei informazioni sui servizi di pet sitting.", "_blank");
+    window.open("https://wa.me/393517499312?text=Ciao! Vorrei informazioni sui servizi di pet sitting.", "_blank");
   };
 
   const contactInfo = [
@@ -16,17 +16,17 @@ const ContactSection = () => {
     {
       icon: Clock,
       label: "Disponibilità",
-      value: "Lun - Dom, 7:00 - 21:00",
+      value: "Lun - Dom, h24",
     },
     {
       icon: Phone,
       label: "Telefono",
-      value: "+39 XXX XXX XXXX",
+      value: "+39 351 74 99 312",
     },
     {
       icon: Mail,
       label: "Email",
-      value: "info@bergamopetharmony.it",
+      value: "ales.raciti95@gmail.com",
     },
   ];
 
