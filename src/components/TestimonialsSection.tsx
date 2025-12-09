@@ -6,13 +6,13 @@ const TestimonialsSection = () => {
     {
       name: "Marco B.",
       pet: "Labrador di 3 anni",
-      text: "Giulia è fantastica! Il nostro Leo adora le passeggiate con lei. Sempre puntuale e le foto che ci manda ci fanno stare tranquilli durante i viaggi di lavoro.",
+      text: "Alessia è fantastica! Il nostro Leo adora le passeggiate con lei. Sempre puntuale e le foto che ci manda ci fanno stare tranquilli durante i viaggi di lavoro.",
       rating: 5,
     },
     {
       name: "Francesca T.",
       pet: "2 gatti persiani",
-      text: "Finalmente qualcuno di cui posso fidarmi per i miei mici. Giulia capisce davvero i gatti e la sua formazione veterinaria è un plus incredibile.",
+      text: "Finalmente qualcuno di cui posso fidarmi per i miei mici. Alessia capisce davvero i gatti e la sua formazione veterinaria è un plus incredibile.",
       rating: 5,
     },
     {
@@ -24,7 +24,7 @@ const TestimonialsSection = () => {
     {
       name: "Alessia M.",
       pet: "Beagle energico",
-      text: "Consiglio Giulia a tutti! Milo torna sempre stanco e felice dalle sue passeggiate. Si vede che ama davvero gli animali.",
+      text: "Consiglio Alessia a tutti! Milo torna sempre stanco e felice dalle sue passeggiate. Si vede che ama davvero gli animali.",
       rating: 5,
     },
   ];
