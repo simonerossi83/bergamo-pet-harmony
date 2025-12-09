@@ -4,7 +4,7 @@ import heroPets from "@/assets/hero-pets.jpg";
 
 const HeroSection = () => {
   const handleWhatsAppClick = () => {
-    window.open("https://wa.me/39XXXXXXXXXX?text=Ciao! Vorrei informazioni sui servizi di pet sitting.", "_blank");
+    window.open("https://wa.me/393517499312?text=Ciao! Vorrei informazioni sui servizi di pet sitting.", "_blank");
   };
 
   return (
@@ -35,7 +35,7 @@ const HeroSection = () => {
 
           {/* Subtitle */}
           <p className="text-lg md:text-xl text-muted-foreground mb-8 animate-fade-up leading-relaxed" style={{ animationDelay: "0.2s" }}>
-            Pet sitting professionale a Bergamo. Mentre sei via, i tuoi cani e gatti riceveranno tutto l'amore, 
+            Pet sitting professionale a Bergamo e provincia. Mentre sei via, i tuoi cani e gatti riceveranno tutto l'amore, 
             le coccole e le attenzioni che meritano.
           </p>
 
